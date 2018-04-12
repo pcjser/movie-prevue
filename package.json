@@ -1,0 +1,28 @@
+{
+  "name": "movie-prevue",
+  "version": "1.0.0",
+  "description": "慕课网Koa2电影预告片源码",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcjser/movie-prevue.git"
+  },
+  "author": "pcjser <6974182@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "movie",
+    "prevue",
+    "imooc"
+  ],
+  "bugs": {
+    "url": "https://github.com/pcjser/movie-prevue/issues"
+  },
+  "homepage": "https://github.com/pcjser/movie-prevue#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  }
+}
